@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+   
+    
+    
+}
+
+.box{
+    display: inline-block;
+    width: 315px;
+    height: 315px;
+    background: green;
+    
+    
+    border: 3px solid black;
+    
+    
+   
+
+}
+iframe{
+margin-top: 100px;
+position: relative;
+top: 170px;
+
+
+}
+
